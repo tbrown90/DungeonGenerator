@@ -16,7 +16,9 @@ x86/
 build/
 bld/
 [Bb]in/
-[Oo]bj/
+[Oo]bj/
+dgGUI/[Dd]ebug/
+dgGUI/[Rr]elease/
 
 # Roslyn cache directories
 *.ide/
